@@ -3,6 +3,25 @@
 ### Introduction
 Some companies using CodeScreen require candidates to record a quick screen share walkthrough video to give an overview of your solution. Here you can talk about the approach you took to solving your CodeScreen assessment while walking through your code.
 
+You will know whether or not you are required to record a video depending on which pop up screen appears when you click 
+the `Complete task` link.
+
+If you are **required** to record a video, you will see this pop up:
+
+<figure>
+  <figcaption style="font-style: italic; font-weight: bold"></figcaption>
+  </br>
+  <img style="max-width: 40%;" src="complete_task_video.png" alt="Complete task"/>
+</figure>
+
+If you are **not required** to record a video, you will see this pop up:
+
+<figure>
+  <figcaption style="font-style: italic; font-weight: bold"></figcaption>
+  </br>
+  <img style="max-width: 40%;" src="complete_task_no_video.png" alt="Complete task"/>
+</figure>
+
 ### Downloading Loom
 
 The platform we use for recording videos is called [`Loom`](https://www.loom.com). Loom is a video communication tool, trusted by thousands of companies worldwide. It's completely free and straightforward & intuituve to use. 
