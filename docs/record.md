@@ -8,6 +8,6 @@ Click [`here`](https://support.loom.com/hc/en-us/articles/360002187698) for inst
 
 <br>
 
-**Note** - Please make sure to use the `Screen+Cam` option so both you and your screen are visible in the video.
+**Note** - Please make sure to use either the `Screen Only` or `Screen+Cam` options so your screen is visible in the video.
 
 Once you have finished recording a video, you are ready to <a href="#submit">submit your solution</a>.
