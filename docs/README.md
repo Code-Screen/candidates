@@ -1,2 +1,2 @@
-# CodeScreen-API-Docs
-Documentation for the CodeScreen API.
+# Candidates-Docs
+Candidate User Guide documentation for CodeScreen.
