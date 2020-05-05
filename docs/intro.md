@@ -8,4 +8,5 @@ of yourself when applying to companies that use CodeScreen.
 
 The goal of this user guide is to provide you with all the information required to make your CodeScreen experience as seamless and pleasant as possible.
 
+* [CodeScreen Workflow](beginTest.md)
 * [Troubleshooting Common Problems](404Error.md)
