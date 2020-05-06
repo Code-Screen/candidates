@@ -13,9 +13,7 @@ To kick things off, you will first see the initial sign up screen:
 <br>
 
 The `First name`, `Last name`, and `Email address` fields are already auto-populated. You will just need to enter your
-`GitHub` username, as `GitHub` is a core part of the CodeScreen workflow.
-
-**Note** if you do not already have a `GitHub` account, you can sign up <a href="https://www.github.com" target="_blank">here</a> for free.
+`GitHub` username.
 
 Once you enter your `GitHub` username, please click the `Continue` button to proceed.
 

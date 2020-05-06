@@ -4,6 +4,7 @@
 
 - Workflow
 
+  - [Prerequisites](prerequisites.md)
   - [Begin Test](beginTest.md)
   - [Cloning Repo](cloningRepo.md)
   - [Pushing Changes](pushingChanges.md)
