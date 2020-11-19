@@ -13,3 +13,6 @@ When you click on the repository link URL, you may see the following:
 The reason for this is that you are either not currently logged into `GitHub`, or logged in under a different username than the one you specified when beginning the test.
 
 To solve this issue, please log into `GitHub` using the username you specified when beginning the test and click the repo link again.
+
+If you have mistakenly entered a `GitHub` username that does not belong to you, message us on our live chat below with
+the username <br> you want to grant access to and we will update it for you.
