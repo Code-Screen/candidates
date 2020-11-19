@@ -12,10 +12,7 @@ To kick things off, you will first see the initial sign up screen:
 
 <br>
 
-The `First name`, `Last name`, and `Email address` fields are already auto-populated. You will just need to enter your
-`GitHub` username.
-
-Once you enter your `GitHub` username, please click the `Continue` button to proceed.
+You will just need to enter your `GitHub` username, and then click the `Continue` button to proceed.
 
 You will now see a screen similar to the following:
 
