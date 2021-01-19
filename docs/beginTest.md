@@ -1,13 +1,26 @@
 # Begin Test
 
-To kick things off, you will first see the initial sign up screen:
+To kick things off, you will receive an email similar to to the following:
 
 <br>
 
 <figure>
-  <figcaption style="font-style: italic; font-weight: bold">Sign Up Form:</figcaption>
+  <figcaption style="font-style: italic; font-weight: bold">Begin Test Email:</figcaption>
   </br>
-  <img style="max-width: 40%;" src="signUp.png" alt="Git Status"/>
+  <img style="max-width: 50%;" src="beginEmail.png" alt="Begin Test Email"/>
+</figure>
+
+<br>
+
+Once you click the `Click here to begin` blue button, you will be brought to the initial sign up screen. **Note** your 
+timer does not start at this point.
+
+<br>
+
+<figure>
+  <figcaption style="font-style: italic; font-weight: bold">Sign Up Screen:</figcaption>
+  </br>
+  <img style="max-width: 40%;" src="signUp.png" alt="Sign Up Screen"/>
 </figure>
 
 <br>
