@@ -78,6 +78,12 @@ Please click on the link shown in the pop-up image above, which will bring you t
 **Note** that if you see a `404 Error` on GitHub at this point, please follow these <a href="#404Error.md">instructions</a>.
 
 Once you exit out of the pop-up, you will see the `countdown timer` on the right. This represents the amount of time you have
-left to complete the assessment.
+left to complete the assessment. The link to your GitHub repo will also always be available on this screen:
+
+<figure>
+  <figcaption style="font-style: italic; font-weight: bold"></figcaption>
+  </br>
+  <img style="max-width: 80%;" src="applicationScreen.png" alt="Application Screen"/>
+</figure>
 
 You can now <a href="#cloningRepo.md">clone your repo</a> locally, and start working on the assessment inside your code editor of choice.
