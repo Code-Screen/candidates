@@ -1,6 +1,6 @@
 # Begin Test
 
-To kick things off, you will receive an email similar to to the following:
+To kick things off, you will receive an email similar to the following:
 
 <br>
 
