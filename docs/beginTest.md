@@ -12,7 +12,7 @@ To kick things off, you will receive an email similar to to the following:
 
 <br>
 
-Once you click the `Click here to begin` blue button, you will be brought to the initial sign up screen. **Note** your 
+Once you click the `Click here to continue` blue button, you will be brought to the initial sign up screen. **Note** your 
 timer does not start at this point.
 
 <br>
