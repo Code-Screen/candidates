@@ -5,6 +5,35 @@
 * <a href="https://git-scm.com/" target="_blank">Git</a> - In order to push your changes to `GitHub`, you will first need to 
 <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" target="_blank"> install Git</a> on your computer.
 
+### Runtimes
+
+To build & run your test locally, please install the following runtimes for the language in which you are going to take your test:
+
+<table>
+    <thead>
+        <tr>
+            <td style="white-space: nowrap;"><strong>Language</strong></td><td><strong>Runtime version</strong></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Java</td><td>Java 11</td></tr>
+        <tr style="background-color: white;"><td>JavaScript</td><td>Node 15.5</td></tr>
+        <tr><td>TypeScript</td><td>Node 15.5</td></tr>
+        <tr style="background-color: white;"><td>.NET</td><td>.NET 5.0</td></tr>
+        <tr><td>Python</td><td>Python 3.8</td></tr>
+        <tr style="background-color: white;"><td>PHP</td><td>PHP 7.2</td></tr>
+        <tr><td>Ruby</td><td>Ruby 3.0</td></tr>
+        <tr style="background-color: white;"><td>R</td><td>R 4.0.3</td></tr>
+        <tr><td>Go</td><td>Go 1.15</td></tr>
+        <tr style="background-color: white;"><td>Kotlin</td><td>Kotlin 1.3, Java 11</td></tr>
+        <tr><td>Scala</td><td>Scala 2.13.6, SBT 1.5.3</td></tr>
+        <tr style="background-color: white;"><td>Solidity</td><td>Node 15.5</td></tr>
+        <tr><td>Terraform</td><td>Terraform 0.12.25, Go 1.15</td></tr>
+        <tr style="background-color: white;"><td>React</td><td>Node 15.5</td></tr>
+        <tr><td>Web</td><td>Node 15.5</td></tr>
+    </tbody>
+</table>
+
 <br>
 
 Once you have these set-up, you can then <a href="#beginTest.md">begin your test</a>.
