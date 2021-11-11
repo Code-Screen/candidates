@@ -34,12 +34,12 @@ You will now see a screen similar to the following:
 <figure>
   <figcaption style="font-style: italic; font-weight: bold">Begin Task:</figcaption>
   </br>
-  <img style="max-width: 70%;" src="beginTest.png" alt="Begin Test"/>
+  <img style="max-width: 80%;" src="beginTest.png" alt="Begin Test"/>
 </figure>
 
 <br>
 
-Please click the `Begin task` link. You will then see a pop-up similar to the following:
+Please click the `Continue` link. You will then see a pop-up similar to the following:
 
 <br>
 
@@ -53,7 +53,7 @@ Please click the `Begin task` link. You will then see a pop-up similar to the fo
 
 Here you can choose the language/framework in which to write your solution.
 
-Once you click the `Yes` button, we will generate a new repository for you on GitHub, and the timer will start. So, please
+Once you click the `Yes` button, we will generate a new repository for you on GitHub, and the **timer will start**. So, please
 make sure you are ready to start working on the test at this point.
 
 <br>
