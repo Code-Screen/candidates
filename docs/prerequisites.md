@@ -28,9 +28,10 @@ To build & run your test locally, please install the following runtimes for the 
         <tr style="background-color: white;"><td>Kotlin</td><td>Kotlin 1.3, Java 11</td></tr>
         <tr><td>Scala</td><td>Scala 2.13.6, SBT 1.5.3</td></tr>
         <tr style="background-color: white;"><td>Solidity</td><td>Node 15.5</td></tr>
-        <tr><td>Terraform</td><td>Terraform 0.12.25, Go 1.15</td></tr>
-        <tr style="background-color: white;"><td>React</td><td>Node 15.5</td></tr>
-        <tr><td>Web</td><td>Node 15.5</td></tr>
+        <tr><td>Elixir</td><td>Elixir 1.12, Erlang/OTP 24</td></tr>
+        <tr style="background-color: white;"><td>Terraform</td><td>Terraform 0.12.25, Go 1.15</td></tr>
+        <tr><td>React</td><td>Node 15.5</td></tr>
+        <tr style="background-color: white;"><td>Web</td><td>Node 15.5</td></tr>
     </tbody>
 </table>
 
