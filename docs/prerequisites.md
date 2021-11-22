@@ -16,7 +16,7 @@ To build & run your test locally, please install the following runtimes for the 
         </tr>
     </thead>
     <tbody>
-        <tr><td>Java</td><td>Java 11</td></tr>
+        <tr><td>Java</td><td>Java 16</td></tr>
         <tr style="background-color: white;"><td>JavaScript</td><td>Node 15.5</td></tr>
         <tr><td>TypeScript</td><td>Node 15.5</td></tr>
         <tr style="background-color: white;"><td>.NET</td><td>.NET 5.0</td></tr>
