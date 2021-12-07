@@ -32,6 +32,7 @@ To build & run your test locally, please install the following runtimes for the 
         <tr style="background-color: white;"><td>Terraform</td><td>Terraform 0.12.25, Go 1.15</td></tr>
         <tr><td>React</td><td>Node 15.5</td></tr>
         <tr style="background-color: white;"><td>Web</td><td>Node 15.5</td></tr>
+        <tr><td>WordPress</td><td>PHP 7.4</td></tr>
     </tbody>
 </table>
 
