@@ -5,7 +5,7 @@ Once you follow the link to your repo on `GitHub`, you will see a screen similar
 <figure>
   <figcaption style="font-style: italic; font-weight: bold">GitHub Repository:</figcaption>
   </br>
-  <img style="max-width: 70%;" src="candidateRepo.png" alt="GitHub Repository"/>
+  <img style="max-width: 90%;" src="candidateRepo.png" alt="GitHub Repository"/>
 </figure>
 
 <br>
