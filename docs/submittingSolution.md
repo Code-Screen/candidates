@@ -5,7 +5,7 @@ Once you are happy with your solution, you can now submit it by clicking the `Co
 <figure>
   <figcaption style="font-style: italic; font-weight: bold">Application Screen:</figcaption>
   </br>
-  <img style="max-width: 70%;" src="completeTask.png" alt="Application Screen"/>
+  <img style="max-width: 80%;" src="completeTask.png" alt="Application Screen"/>
 </figure>
 
 <figure>
