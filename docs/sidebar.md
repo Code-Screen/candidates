@@ -5,12 +5,12 @@
 - Workflow
 
   - [Prerequisites](prerequisites.md)
-  - [Begin Test](beginTest.md)
-  - [Cloning Repo](cloningRepo.md)
-  - [Pushing Changes](pushingChanges.md)
-  - [Submitting Solution](submittingSolution.md)
+  - [Begin Test](begin-test.md)
+  - [Cloning Repo](cloning-repo.md)
+  - [Pushing Changes](pushing-changes.md)
+  - [Submitting Solution](submitting-solution.md)
 
 - Troubleshooting
 
-  - [GitHub 404 error](404Error.md)
-  - [Solution Invalid - Test file has been modified](solutionInvalid.md)
+  - [GitHub 404 error](handling-github-404-error.md)
+  - [Solution Invalid - Test file has been modified](handling-solution-invalid-error.md)

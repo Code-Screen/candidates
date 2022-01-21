@@ -38,4 +38,4 @@ To build & run your test locally, please install the following runtimes for the 
 
 <br>
 
-Once you have these set-up, you can then <a href="#beginTest.md">begin your test</a>.
+Once you have these set-up, you can then <a href="#begin-test.md">begin your test</a>.

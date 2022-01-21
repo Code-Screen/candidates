@@ -88,7 +88,7 @@ Please click on the link shown in the pop-up image above, which will bring you t
 
 You can ignore the "clone the repo" line in the screenshot above as you will be submitting your files to your repo directly on GitHub (rather than locally from your computer).
 
-**Note** that if you see a `404 Error` on GitHub at this point, please follow these <a href="#404Error.md">instructions</a>.
+**Note** that if you see a `404 Error` on GitHub at this point, please follow these [instructions](handling-github-404-error.md).
 
 Once you exit out of the pop-up, you will see the `countdown timer` on the right. This represents the amount of time you have
 left to complete the assessment. The link to your GitHub repo will also always be available on this screen:

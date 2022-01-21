@@ -18,4 +18,4 @@ The `README` in the repository will contain the instructions for the test.
 You can now clone the repo locally, either over `HTTPS` or `SSH`. If you are not familiar with this process, please see
 <a href="https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository" target="_blank">these instructions</a>.
 
-Once you clone your repo, the next step is to <a href="#pushingChanges.md">push the changes</a> you make up to your repository.
+Once you clone your repo, the next step is to <a href="#pushing-changes.md">push the changes</a> you make up to your repository.
