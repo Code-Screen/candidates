@@ -86,4 +86,4 @@ left to complete the assessment. The link to your GitHub repo will also always b
   <img style="max-width: 80%;" src="applicationScreen.png" alt="Application Screen"/>
 </figure>
 
-You can now <a href="#cloning-repo.md">clone your repo</a> locally, and start working on the assessment inside your code editor of choice.
+You can now [clone your repo](cloning-repo.md) locally, and start working on the assessment inside your code editor of choice.

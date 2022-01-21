@@ -43,4 +43,4 @@ You can then view the result of the build directly in GitHub:
 
 **Note** you can also build and test your solution locally. Your repo's `README` and `.github/workflows/*.yml` file will contain the commands that you need to execute to run your solution locally.
 
-Once you have pushed your first commit to the `main` branch, you will be able to <a href="#submitting-solution.md">submit your solution</a>.
+Once you have pushed your first commit to the `main` branch, you will be able to [submit your solution](submitting-solution.md).
