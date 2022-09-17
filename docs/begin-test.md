@@ -20,14 +20,14 @@ timer does not start at this point.
 <figure>
   <figcaption style="font-style: italic; font-weight: bold">Sign Up Screen:</figcaption>
   </br>
-  <img style="max-width: 40%;" src="signUp.png" alt="Sign Up Screen"/>
+  <img style="max-width: 50%;" src="signUp.png" alt="Sign Up Screen"/>
 </figure>
 
 <br>
 
-You will just need to enter your `GitHub` username, and then click the `Continue` button to proceed.
+You will then need to enter your `GitHub` username. **Note** your GitHub username is displayed when you click your profile picture in the top right corner when you are logged into your GitHub account. If you do not already have a GitHub account, you can sign up <a target="_blank" href="https://github.com/">here</a> for free.
 
-You will now see a screen similar to the following:
+Now click the `Continue` button to proceed. You will then see a screen similar to the following:
 
 <br>
 
