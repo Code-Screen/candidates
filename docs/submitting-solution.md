@@ -1,17 +1,18 @@
 # Submitting Solution
 
-Once you are happy with your solution, you can now submit it by clicking the `Complete task` on the `Application screen`:
+Once you are happy with your solution, you can now submit it by clicking the `Submit Solution` link on the `Assessment Screen`:
 
+<br>
 <figure>
-  <figcaption style="font-style: italic; font-weight: bold">Application Screen:</figcaption>
+  <figcaption style="font-style: italic; font-weight: bold">Assessment Screen:</figcaption>
   </br>
-  <img style="max-width: 80%;" src="completeTask.png" alt="Application Screen"/>
+  <img style="max-width: 80%;" src="submitSolution.png" alt="Assessment Screen"/>
 </figure>
-
+<br>
 <figure>
-  <figcaption style="font-style: italic; font-weight: bold">Complete Task Confirmation:</figcaption>
+  <figcaption style="font-style: italic; font-weight: bold">Submit Solution:</figcaption>
   </br>
-  <img style="max-width: 40%;" src="completeTaskPopup.png" alt="Complete Task Confirmation"/>
+  <img style="max-width: 40%;" src="submitSolutionConfirmation.png" alt="Submit Solution"/>
 </figure>
 
 <br>

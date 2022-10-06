@@ -1,6 +1,6 @@
 # Solution Invalid - Test file has been modified
 
-When you start your CodeScreen test, you will see a message stating that the existing unit test files must not be modified.
+When you start your CodeScreen assessment, you will see a message stating that the existing unit test files must not be modified.
 
 Sometimes, however, these files may be changed without you explicitly modifying them, e.g., your IDE adds extra tab space, etc.
 
@@ -68,4 +68,4 @@ git push
 ```
 <br>
 
-That's it; you're all set! You will now be able to submit your solution by clicking the `Complete task` link.
+That's it; you're all set! You will now be able to submit your solution by clicking the `Submit Solution` link again.

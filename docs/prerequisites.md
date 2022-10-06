@@ -7,7 +7,7 @@
 
 ### Runtimes
 
-To build & run your test locally, please install the following runtimes for the language in which you are going to take your test:
+To build & run your solution to a CodeScreen assessment locally, please install the following runtimes for the language in which you are going to take your assessment:
 
 <table>
     <thead>
@@ -38,4 +38,4 @@ To build & run your test locally, please install the following runtimes for the 
 
 <br>
 
-Once you have these set-up, you can then [begin your test](begin-test.md).
+Once you have these set-up, you can then [begin your assessment](begin-assessment.md).

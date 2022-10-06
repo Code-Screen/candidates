@@ -1,24 +1,24 @@
-# Begin Test
+# Begin Assessment
 
 To kick things off, you will receive an email similar to the following:
 
 <br>
 
 <figure>
-  <figcaption style="font-style: italic; font-weight: bold">Begin Test Email:</figcaption>
+  <figcaption style="font-style: italic; font-weight: bold">Begin Assessment Email:</figcaption>
   </br>
-  <img style="max-width: 50%;" src="beginEmail.png" alt="Begin Test Email"/>
+  <img style="max-width: 50%;" src="beginEmail.png" alt="Begin Assessment Email"/>
 </figure>
 
 <br>
 
-Once you click the `Click here to continue` blue button, you will be brought to the initial sign up screen. **Note** your 
+Once you click the `Click here to continue` blue button, you will be brought to the following screen. **Note** your 
 timer does not start at this point.
 
 <br>
 
 <figure>
-  <figcaption style="font-style: italic; font-weight: bold">Sign Up Screen:</figcaption>
+  <figcaption style="font-style: italic; font-weight: bold"></figcaption>
   </br>
   <img style="max-width: 50%;" src="signUp.png" alt="Sign Up Screen"/>
 </figure>
@@ -32,9 +32,9 @@ Now click the `Continue` button to proceed. You will then see a screen similar t
 <br>
 
 <figure>
-  <figcaption style="font-style: italic; font-weight: bold">Begin Task:</figcaption>
+  <figcaption style="font-style: italic; font-weight: bold">Begin Assessment:</figcaption>
   </br>
-  <img style="max-width: 80%;" src="beginTest.png" alt="Begin Test"/>
+  <img style="max-width: 80%;" src="beginTest.png" alt="Begin Assessment"/>
 </figure>
 
 <br>
@@ -44,7 +44,7 @@ Please click the `Continue` link. You will then see a pop-up similar to the foll
 <br>
 
 <figure>
-  <figcaption style="font-style: italic; font-weight: bold">Begin Task Pop-Up:</figcaption>
+  <figcaption style="font-style: italic; font-weight: bold">Begin Assessment Pop-Up:</figcaption>
   </br>
   <img style="max-width: 40%;" src="beginTaskPopup.png" alt="Begin Task Popup"/>
 </figure>
@@ -54,7 +54,7 @@ Please click the `Continue` link. You will then see a pop-up similar to the foll
 Here you can choose the language/framework in which to write your solution.
 
 Once you click the `Yes` button, we will generate a new repository for you on GitHub, and the **timer will start**. So, please
-make sure you are ready to start working on the test at this point.
+make sure you are ready to start working on the assessment and logged into GitHub at this point.
 
 <br>
 
@@ -83,7 +83,7 @@ left to complete the assessment. The link to your GitHub repo will also always b
 <figure>
   <figcaption style="font-style: italic; font-weight: bold"></figcaption>
   </br>
-  <img style="max-width: 80%;" src="applicationScreen.png" alt="Application Screen"/>
+  <img style="max-width: 80%;" src="applicationScreen.png" alt="Assessment Screen"/>
 </figure>
 
 You can now [clone your repo](cloning-repo.md) locally, and start working on the assessment inside your code editor of choice.

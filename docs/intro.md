@@ -1,7 +1,7 @@
 # CodeScreen Candidate User Guide
 
 ### Introduction
-CodeScreen is the real-world developer assessment platform, which means you take tests in a familiar and natural environment, allowing you to give the best version
+CodeScreen is the real-world developer assessment platform, which means you take assessments in a familiar and natural environment, allowing you to give the best version
 of yourself when applying to companies that use CodeScreen.
 
 <p>

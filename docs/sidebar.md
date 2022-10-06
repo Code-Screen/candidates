@@ -5,7 +5,7 @@
 - Workflow
 
   - [Prerequisites](prerequisites.md)
-  - [Begin Test](begin-test.md)
+  - [Begin Assessment](begin-assessment.md)
   - [Cloning Repo](cloning-repo.md)
   - [Pushing Changes](pushing-changes.md)
   - [Submitting Solution](submitting-solution.md)

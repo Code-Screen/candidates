@@ -21,7 +21,7 @@ as we run our analysis on your code that is in the `main` branch of your repo.
 
 ### GitHub Actions
 
-Each time you push a new commit to your GitHub repo, a <a href="https://github.com/features/actions" target="_blank">GitHub Action</a> will automatically run that builds and tests your solution against all the unit cases inside your repo.
+Each time you push a new commit to your GitHub repo, a <a href="https://github.com/features/actions" target="_blank">GitHub Action</a> will automatically run that builds and tests your solution against all the unit test cases inside your repo.
 
 You can then view the result of the build directly in GitHub:
 
