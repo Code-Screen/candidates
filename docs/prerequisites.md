@@ -24,7 +24,7 @@ To build & run your solution to a CodeScreen assessment locally, please install 
         <tr style="background-color: white;"><td>PHP</td><td>PHP 8.0</td></tr>
         <tr><td>Ruby</td><td>Ruby 3.0</td></tr>
         <tr style="background-color: white;"><td>R</td><td>R 4.0.3</td></tr>
-        <tr><td>Go</td><td>Go 1.15</td></tr>
+        <tr><td>Go</td><td>Go 1.19</td></tr>
         <tr style="background-color: white;"><td>Kotlin</td><td>Kotlin 1.3, Java 11</td></tr>
         <tr><td>Scala</td><td>Scala 2.13.6, SBT 1.5.3</td></tr>
         <tr style="background-color: white;"><td>Solidity</td><td>Node 15.5</td></tr>
