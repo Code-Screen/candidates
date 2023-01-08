@@ -30,7 +30,7 @@ To build & run your solution to a CodeScreen assessment locally, please install 
         <tr style="background-color: white;"><td>Solidity</td><td>Node 15.5</td></tr>
         <tr><td>Elixir</td><td>Elixir 1.12, Erlang/OTP 24</td></tr>
         <tr style="background-color: white;"><td>Terraform</td><td>Terraform 0.12.25, Go 1.15</td></tr>
-        <tr><td>React</td><td>Node 15.5</td></tr>
+        <tr><td>React</td><td>Node 16/18</td></tr>
         <tr style="background-color: white;"><td>Web</td><td>Node 15.5</td></tr>
         <tr><td>WordPress</td><td>PHP 7.4</td></tr>
         <tr style="background-color: white;"><td>Swift</td><td>Xcode 14</td></tr>
