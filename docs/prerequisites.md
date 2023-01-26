@@ -20,7 +20,7 @@ To build & run your solution to a CodeScreen assessment locally, please install 
         <tr style="background-color: white;"><td>JavaScript</td><td>Node 15.5</td></tr>
         <tr><td>TypeScript</td><td>Node 15.5</td></tr>
         <tr style="background-color: white;"><td>.NET</td><td>.NET 5.0</td></tr>
-        <tr><td>Python</td><td>Python 3.8</td></tr>
+        <tr><td>Python</td><td>Python 3.10</td></tr>
         <tr style="background-color: white;"><td>PHP</td><td>PHP 8.0</td></tr>
         <tr><td>Ruby</td><td>Ruby 3.0</td></tr>
         <tr style="background-color: white;"><td>R</td><td>R 4.0.3</td></tr>
