@@ -34,6 +34,7 @@ To build & run your solution to a CodeScreen assessment locally, please install 
         <tr style="background-color: white;"><td>Web</td><td>Node 15.5</td></tr>
         <tr><td>WordPress</td><td>PHP 7.4</td></tr>
         <tr style="background-color: white;"><td>Swift</td><td>Xcode 14</td></tr>
+        <tr><td>C++</td><td>CMake 3.13</td></tr>
     </tbody>
 </table>
 
