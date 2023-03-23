@@ -31,10 +31,14 @@ To build & run your solution to a CodeScreen assessment locally, please install 
         <tr><td>Elixir</td><td>Elixir 1.12, Erlang/OTP 24</td></tr>
         <tr style="background-color: white;"><td>Terraform</td><td>Terraform 1.3.7, Go 1.19</td></tr>
         <tr><td>React</td><td>Node 16/18</td></tr>
+        <tr style="background-color: white;"><td>Angular</td><td>Node 16/18, Angular 13</td></tr>
+        <tr><td>Vue</td><td>Node 16/18</td></tr>
         <tr style="background-color: white;"><td>Web</td><td>Node 15.5</td></tr>
         <tr><td>WordPress</td><td>PHP 7.4</td></tr>
         <tr style="background-color: white;"><td>Swift</td><td>Xcode 14</td></tr>
-        <tr><td>C++</td><td>CMake 3.13</td></tr>
+        <tr><td>React Native</td><td>Node 16</td></tr>
+        <tr style="background-color: white;"><td>C++</td><td>CMake 3.13</td></tr>
+        <tr><td>SQL</td><td><a href="https://sqlitebrowser.org/" target="_blank">SQLite Browser</a></td><tr>
     </tbody>
 </table>
 
