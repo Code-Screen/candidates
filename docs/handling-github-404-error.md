@@ -10,9 +10,21 @@ When you click on the repository link URL, you may see the following:
   <img style="max-width: 60%;" src="404_error.png" alt="GitHub 404 Error"/>
 </figure>
 
-The reason for this is that you are either not currently logged into `GitHub`, or logged in under a different username than the one you specified when beginning the assessment.
+This can happen for one of the following reasons:
 
-To solve this issue, please log into `GitHub` using the username you specified when beginning the assessment and click the repo link again.
 
-If you have mistakenly entered a `GitHub` username that does not belong to you, message us on our live chat below with
-the username <br> you want to grant access to and we will update it for you.
+### Not Logged Into GitHub
+
+You are not currently logged into `GitHub`, To solve this issue, please log into `GitHub` using the username you specified when beginning the assessment and click the repo link again.
+
+### Logged Into GitHub Under Different Username
+
+You are logged into `GitHub` under a different username than the one you specified when beginning the assessment. If you want to use a different username or you mistakenly entered a `GitHub` username that does not belong to you, message us on our live chat below with the username you want to grant access to and we will update it for you.
+
+### Submitted Solution
+
+Once you submit your solution, your access to your GitHub repo will be revoked. This means you will no longer be able to push any new changes to the repo or access it via the GitHub UI, so please make sure you are happy with your solution before submitting.
+
+### Timer Expired
+
+Once your timer expires, your access to your GitHub repo will be revoked, which means you will no longer be able to push changes to the repo or access it via the GitHub UI.
