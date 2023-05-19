@@ -77,8 +77,11 @@ make sure you are ready to start working on the assessment and logged into GitHu
 Please click on the link shown in the pop-up image above, which will bring you to your repository on GitHub. <br>
 **Note** that if you see a `404 Error` on GitHub at this point, please follow these [instructions](handling-github-404-error.md).
 
-Once you exit out of the pop-up, you will see the `countdown timer` on the right. This represents the amount of time you have
-left to complete the assessment. The link to your GitHub repo will also always be available on this screen:
+Once you exit out of the pop-up, you will see the `countdown timer` on the right. This represents the amount of time you have left to complete the assessment.
+
+**Important** - Once your timer expires, your access to your GitHub repo will be revoked, which means you will no longer be able to push changes to the repo or access it via the GitHub UI.
+
+The link to your GitHub repo will also always be available on this screen:
 
 <figure>
   <figcaption style="font-style: italic; font-weight: bold"></figcaption>
@@ -86,4 +89,5 @@ left to complete the assessment. The link to your GitHub repo will also always b
   <img style="max-width: 80%;" src="applicationScreen.png" alt="Assessment Screen"/>
 </figure>
 
-You can now [clone your repo](cloning-repo.md) locally, and start working on the assessment inside your code editor of choice.
+
+You can now [clone your repo](cloning-repo.md) locally, and start working on the assessment inside your code editor of choice.<br>Alternatively, you can also use GitHub's internal Visual Studio Code IDE to write your solution (see here)

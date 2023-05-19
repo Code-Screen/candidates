@@ -17,8 +17,7 @@ Once you are happy with your solution, you can now submit it by clicking the `Su
 
 <br>
 
-**Important** - Once you submit your solution, you will not be able to change it, so please make sure you are happy
-with it before doing so.
+**Important** - Once you submit your solution, your access to your GitHub repo will be revoked. This means you will no longer be able to push any new changes to the repo or access it via the GitHub UI, so please make sure you are happy with your solution before submitting.
 
 Once you click the `Yes` button, you will receive an email confirming receipt of your solution.
 
