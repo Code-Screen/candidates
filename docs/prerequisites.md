@@ -44,4 +44,4 @@ To build & run your solution to a CodeScreen assessment locally, please install 
 
 <br>
 
-Once you have these set-up, you can then [begin your assessment](begin-assessment.md).
+Once you have the runtime installed for the language/framework in which you are taking your assessment, you can then [begin your assessment](begin-assessment.md).
