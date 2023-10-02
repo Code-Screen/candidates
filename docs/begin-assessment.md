@@ -7,12 +7,12 @@ To kick things off, you will receive an email similar to the following:
 <figure>
   <figcaption style="font-style: italic; font-weight: bold">Begin Assessment Email:</figcaption>
   </br>
-  <img style="max-width: 50%;" src="beginEmail.png" alt="Begin Assessment Email"/>
+  <img style="max-width: 60%;" src="beginEmail.png" alt="Begin Assessment Email"/>
 </figure>
 
 <br>
 
-Once you click the `Click here to continue` blue button, you will be brought to the following screen. **Note** your 
+Once you click the `Continue` button, you will be brought to the following screen. **Note** your 
 timer does not start at this point.
 
 <br>
