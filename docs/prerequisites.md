@@ -19,12 +19,12 @@ To build & run your solution to a CodeScreen assessment locally, please install 
         <tr><td>Java</td><td>Java 17</td></tr>
         <tr style="background-color: white;"><td>JavaScript</td><td>Node 18</td></tr>
         <tr><td>TypeScript</td><td>Node 18</td></tr>
-        <tr style="background-color: white;"><td>.NET</td><td>.NET 7.0</td></tr>
+        <tr style="background-color: white;"><td>.NET</td><td>.NET 9.0</td></tr>
         <tr><td>Python</td><td>Python 3.11</td></tr>
         <tr style="background-color: white;"><td>PHP</td><td>PHP 8.0</td></tr>
         <tr><td>Ruby</td><td>Ruby 3.0</td></tr>
         <tr style="background-color: white;"><td>R</td><td>R 4.0.3</td></tr>
-        <tr><td>Go</td><td>Go 1.19</td></tr>
+        <tr><td>Go</td><td>Go 1.23</td></tr>
         <tr style="background-color: white;"><td>Kotlin</td><td>Kotlin 1.8, Java 17</td></tr>
         <tr><td>Scala</td><td>Scala 2.13.6, SBT 1.5.3</td></tr>
         <tr style="background-color: white;"><td>Solidity</td><td>Node 15.5</td></tr>
