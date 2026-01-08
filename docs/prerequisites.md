@@ -17,8 +17,8 @@ To build & run your solution to a CodeScreen assessment locally, please install 
     </thead>
     <tbody>
         <tr><td>Java</td><td>Java 21</td></tr>
-        <tr style="background-color: white;"><td>JavaScript</td><td>Node 18</td></tr>
-        <tr><td>TypeScript</td><td>Node 18</td></tr>
+        <tr style="background-color: white;"><td>JavaScript</td><td>Node 20</td></tr>
+        <tr><td>TypeScript</td><td>Node 20</td></tr>
         <tr style="background-color: white;"><td>.NET</td><td>.NET 9.0</td></tr>
         <tr><td>Python</td><td>Python 3.11</td></tr>
         <tr style="background-color: white;"><td>PHP</td><td>PHP 8.0</td></tr>
