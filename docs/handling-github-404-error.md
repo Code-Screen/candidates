@@ -19,7 +19,7 @@ You are not currently logged into `GitHub`, To solve this issue, please log into
 
 ### Logged Into GitHub Under Different Username
 
-You are logged into `GitHub` under a different username than the one you specified when beginning the assessment. If you want to use a different username or you mistakenly entered a `GitHub` username that does not belong to you, message us on our live chat below with the username you want to grant access to and we will update it for you.
+You are logged into `GitHub` under a different username than the one you specified when beginning the assessment. If you want to use a different username or you mistakenly entered a `GitHub` username that does not belong to you, you can update your username using [this form](https://app.codescreen.com/update-github-username).
 
 ### Submitted Solution
 
