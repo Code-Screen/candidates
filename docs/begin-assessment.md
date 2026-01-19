@@ -90,4 +90,4 @@ The link to your GitHub repo will also always be available on this screen:
 </figure>
 
 
-You can now [clone your repo](cloning-repo.md) locally, and start working on the assessment inside your code editor of choice.<br>Alternatively, you can also use GitHub's internal Visual Studio Code IDE to write your solution (see here)
+You can now [clone your repo](cloning-repo.md) locally, and start working on the assessment inside your code editor of choice.
